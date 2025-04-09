@@ -16,7 +16,7 @@
 - 📫 programo por divertimento mas na vida real sou um mero lixeiro...
 - 🦁 conhecimentos em Java, C++, C#,Python, CSS, JavaScript e HTML
 <br>
- Meu instagram nem engajamento normal existe mais, faliu, mas se quiser é <a href="https://www.instagram.com/javanunes/">(@JavaNunes)
+ Instagram é coisa de famosidade e gringo, gente comum usa TIKTOK <a href="https://www.tiktok.com/@javanunes.social">🎶@javanunes.social
  
  </a>.</p>
 
@@ -39,7 +39,9 @@ Mais
 https://www.youtube.com/watch?v=h3s9t3OUZ40
 
 <details align="left">
-  <summary></summary> 
- 
-
+<p class="footer-row">
+			 <span class="footer-copyright">
+			  JavaNunes Canal secreto ufológico no Telegram<BR><a href="https://t.me/nsa1952" target="_blank">https://t.me/nsa1952</a>
+			</span>
+</p>
 </details>
