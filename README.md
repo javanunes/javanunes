@@ -4,6 +4,7 @@
 - 🌱 gosto de comunicação, segurança e hacking ...
 - 💞️ sou uma pessoa diferente que não segue muito os clichês sociais..
 - 📫 programo por divertimento mas na vida real sou um mero lixeiro...
+- 🦁 conhecimentos em Java, C++, C#,Python, CSS, JavaScript e HTML
 
 <!---
 javanunes/javanunes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
