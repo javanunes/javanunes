@@ -1,4 +1,4 @@
-<img align="right" alt="" height="386" src="https://zionlab.com.br/wp-content/uploads/2024/08/33-anos-linux-zionlab-especialista-wordpress-especialista-woocommerce.jpg">
+<img align="right" alt="" height="300" width="40%" src="https://zionlab.com.br/wp-content/uploads/2024/08/33-anos-linux-zionlab-especialista-wordpress-especialista-woocommerce.jpg">
 
 <h1>
     <a href="https://javanunes.com/">
