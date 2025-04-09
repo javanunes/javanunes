@@ -20,10 +20,15 @@
  
  </a>.</p>
 
+### Paixões 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+ 
 
 ### Venha me seguir
 
-[ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javanunes/) 
+ [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javanunes/) 
  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/javanunes) 
 ### GitHub Stats
 
@@ -31,7 +36,7 @@
 
 
 Mais
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h3s9t3OUZ40?si=pbRvs45Yt_xbtp7F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=h3s9t3OUZ40
 
 <details align="left">
   <summary></summary> 
